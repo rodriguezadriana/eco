@@ -95,6 +95,11 @@ li{
 	margin-left:50px; 
 
 }
+.lado-{
+	margin-left:-80px; 
+
+}
+
 .alto{
 	height: 1200px;
 }
@@ -174,4 +179,9 @@ span{
 	margin-left: 140px;
 
 }
-
+.oscuro2{
+	height: 150px;
+} 
+.size{
+	font-size: 13px;
+}
