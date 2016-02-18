@@ -165,9 +165,13 @@ span{
 .oscuro{
 	height: 300px;
 } 
-.borde{
-	width: 280px;
+.borde th{
+	width: 260px;
 	height: 180px;
-	border: 2px solid #999999;
-	
+	border: 1px solid #999999;
 }
+.mar2{
+	margin-left: 140px;
+
+}
+
