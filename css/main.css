@@ -70,7 +70,7 @@ li{
 	
 }
 .ancho{
-	height: 500px;
+	height: 400px;
 }
 .negativo{
 	margin-left: -10px;
@@ -184,4 +184,11 @@ span{
 } 
 .size{
 	font-size: 13px;
+}
+.arriba3{
+	top::200px;
+}
+#verde{
+	background-image: url("../img/fondo.jpg");
+	
 }
